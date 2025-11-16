@@ -1,5 +1,5 @@
-# im avior👋
 
+- 👋🏾 Hi, I’m @Avior
 - Focused on QA automation, Java, Selenium and CI pipelines.
 - Experienced in building stable test infrastructure and maintaining clean codebases.
 - Working on automation, tooling and infrastructure projects with long term consistency.
