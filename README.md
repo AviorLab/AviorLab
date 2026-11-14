@@ -10,7 +10,7 @@
   <sub>Northern Israel · Open to remote collaboration · Hebrew / English</sub>
 </p>
 
-### Business problems in. Working systems out.
+### Welcome to my build space 👋🏾
 
 I build business automations, API integrations and AI workflows. My background spans software development and QA — I care about clear requirements, reliable execution and checking what actually happened.
 
@@ -23,6 +23,15 @@ I build business automations, API integrations and AI workflows. My background s
 **ORBIT** brings project specs, approvals, task queues and execution evidence into one control room. My flagship project, under active development.
 
 [**Explore the public showcase →**](https://github.com/AviorLab/orbit-showcase)
+
+### More from the lab
+
+| 🧪 Test automation | ⚙️ Backend development |
+| :--- | :--- |
+| [**AviorLab Selenium →**](https://github.com/AviorLab/AviorLab-selenium) | [**Node.js API →**](https://github.com/AviorLab/project-nodeJs) |
+| Java-based browser test automation. | Server-side application with user and card APIs. |
+
+[Browse all repositories ↗](https://github.com/AviorLab?tab=repositories)
 
 ### On my workbench
 
